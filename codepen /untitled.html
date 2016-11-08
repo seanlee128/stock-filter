@@ -6,8 +6,10 @@
 	<title>TITLE HERE</title>
   <link rel="stylesheet" href="./indexStyle.css">
   <script async src="./indexStyle.js"></script>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
 </head>
 <body>
+
   <div class="header">
     <div class="header"id="logo">logo</div>
   </div>
@@ -71,5 +73,10 @@
     <div class="about" id="about">about
   </div>
   </div>
+  <script type="text/javascript">
+  var svgContainer = d3.select(".search").append("svg")
+  .attr("width", 600).attr("height", 100);
+svgContainer.append('circle').attr('cx',60).attr('cy',60).attr('r',50);
+</script>
 </body>
 </html>
