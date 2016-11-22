@@ -35,7 +35,7 @@ function test()
 	  .append("g")
 	    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-	d3.tsv("data.tsv", type, function(error, data) {
+	d3.csv("https://seanlee128.github.io/stock-filter/csv", type, function(error, data) {
 	  if (error) throw error;
 
 	  svg.append("g")
