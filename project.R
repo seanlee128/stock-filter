@@ -1,4 +1,4 @@
-TB = read.csv("SPA1-r,d3.csv", header = T, sep = ",")
+TB = read.csv("SP-r,d3.csv", header = T, sep = ",")
 
 z = cor(TB)
 
