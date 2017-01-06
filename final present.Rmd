@@ -18,6 +18,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## book
 
+![](https://seanlee128.github.io/stock-filter/book.png)
+
 ## Slide with Bullets
 
 - Bullet 1
