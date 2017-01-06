@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## R Markdown
 
-![https://seanlee128.github.io/stock-filter/intro.png]
+![](https://seanlee128.github.io/stock-filter/intro.png)
 
 
 ## Slide with Bullets
