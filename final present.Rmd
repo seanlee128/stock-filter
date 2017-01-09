@@ -7,15 +7,15 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## 
 
 ![](https://seanlee128.github.io/stock-filter/intro.png)
 
-## 大師選股
+## 
 
 ![](https://seanlee128.github.io/stock-filter/master.png)
 
-## book
+## 
 
 ![](https://seanlee128.github.io/stock-filter/book.png)
 
