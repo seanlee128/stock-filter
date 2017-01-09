@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Bullet 2
 - Bullet 3
 
-## Step one
+## Step 1
 
 ![](https://seanlee128.github.io/stock-filter/stepone1.png)
 
@@ -37,10 +37,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](https://seanlee128.github.io/stock-filter/stepone3.png)
 
-## Slide with R Output
+## Step 2
 
-```{r cars, echo = TRUE}
-summary(cars)
-```
+## Step 3
 
-
+![](https://seanlee128.github.io/stock-filter/stepthree1.png)
