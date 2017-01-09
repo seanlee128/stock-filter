@@ -13,11 +13,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## 
 
-![](https://seanlee128.github.io/stock-filter/master.png)
+![](https://seanlee128.github.io/stock-filter/book.png)
 
 ## 
 
-![](https://seanlee128.github.io/stock-filter/book.png)
+![](https://seanlee128.github.io/stock-filter/master.png)
+
 
 ## Slide with Bullets
 
