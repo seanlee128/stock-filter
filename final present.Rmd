@@ -19,12 +19,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](https://seanlee128.github.io/stock-filter/master.png)
 
-
 ## Slide with Bullets
 
 - Bullet 1
 - Bullet 2
 - Bullet 3
+
+## Step one
+
+![](https://seanlee128.github.io/stock-filter/stepone1.png)
+
+## 
+
+![](https://seanlee128.github.io/stock-filter/stepone2.png)
+
+## 
+
+![](https://seanlee128.github.io/stock-filter/stepone3.png)
 
 ## Slide with R Output
 
