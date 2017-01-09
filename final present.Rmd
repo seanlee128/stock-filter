@@ -39,6 +39,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Step 2
 
+![](https://seanlee128.github.io/stock-filter/steptwo1.png)
+
 ## Step 3
 
 ![](https://seanlee128.github.io/stock-filter/stepthree1.png)
