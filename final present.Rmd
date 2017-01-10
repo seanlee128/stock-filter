@@ -45,3 +45,5 @@ knitr::opts_chunk$set(echo = FALSE)
 ##
 
 <a href = "https://dearanita1116.github.io/secondgroup/frame%201129%202%202/index.html" target="_self" title>website</a>
+
+![](https://seanlee128.github.io/stock-filter/qrcode.png)
